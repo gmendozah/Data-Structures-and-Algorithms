@@ -19,6 +19,6 @@
 [Python Complexities](https://wiki.python.org/moin/TimeComplexity)
 
 
-# License
+## License
 
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
