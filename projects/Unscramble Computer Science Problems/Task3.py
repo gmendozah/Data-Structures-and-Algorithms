@@ -72,4 +72,3 @@ call_percentage_in_bangalore = calls_in_bangalore / total_from_bangalore * 100
 print(
     F'{round(call_percentage_in_bangalore, 2)} percent of calls from fixed lines in Bangalore are calls to other '
     F'fixed lines in Bangalore.')
-
