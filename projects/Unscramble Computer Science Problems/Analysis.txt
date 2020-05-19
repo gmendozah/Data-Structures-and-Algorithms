@@ -1,0 +1,14 @@
+Task 0:
+worse case complexity: O(1)
+
+Task 1:
+worse case complexity: O(n)
+
+Task 2:
+worse case complexity: O(n)
+
+Task 3:
+worse case complexity: O(n)
+
+Task 4:
+worse case complexity: O(n)
