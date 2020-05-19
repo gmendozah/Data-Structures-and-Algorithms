@@ -12,11 +12,19 @@ Worst case time-complexity is Big O(2n)
 The time-complexity for this program is Big O(2n) because we are iterating the elements from lists calls and texts.
 
 Task 3:
-Worst case time-complexity is Big O(n)
-The time-complexity for this program is Big O(n) because we are iterating the elements from the list calls.
+Worst case time-complexity:
+- We have a loop that iterates over the calls variable adding a complexity of O(n)
+- We also have a sorting call that adds time complexity of O(n log (n))
+Combining all the above we have a time complexity of O(n) + O(n log (n)) and we end up with: O(n log(n)) time complexity for this algorithm
 
 Task 4:
-Worst case time-complexity is Big O(3n)
-The time-complexity for this program is Big O(3n) because we are iterating the elements from the list calls.
-After that we are iterating the elements from the list texts.
-And finally we are iterating the elements of the list outgoingCallsList.
+Worst case time-complexity:
+- here we have 3 loops that iterate in a linear manner. So we end uup with O(3n)
+- We also use a sorting algorithm to print the results, this part adds O(n log (n))
+Combining all the above we have O(3n) + O(n log (n)) we end up with O(n log(n)) time complexity.
+
+
+Resources
+1. https://wiki.python.org/moin/TimeComplexity
+2. O(n) + O(n log(n)) = O(n log(n))
+https://softwareengineering.stackexchange.com/questions/258509/algorithms-how-do-i-sum-on-and-onlogn-together
