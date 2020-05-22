@@ -18,6 +18,8 @@
 
 [Python Complexities](https://wiki.python.org/moin/TimeComplexity)
 
+[Understanding the Slice notation](https://stackoverflow.com/questions/509211/understanding-slice-notation)
+
 
 ## License
 
