@@ -20,6 +20,7 @@
 
 [Understanding the Slice notation](https://stackoverflow.com/questions/509211/understanding-slice-notation)
 
+[Reversing a Linked List: Easy as 1, 2 ,3](https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088)
 
 ## License
 
