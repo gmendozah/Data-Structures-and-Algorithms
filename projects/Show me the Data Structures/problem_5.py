@@ -29,20 +29,19 @@ class Block:
 class BlockChain:
     def __init__(self):
         self.head = None
+        self.tail = None
 
     def append(self, data):
         # check if head is none
         if self.head is None:
             self.head = Block(self.get_date_time(), data, 0)
+            self.tail = self.head
             return
 
-        block = self.head
-        # go to the end of the LinkedList and create a new block
-        while block.next:
-            block = block.next
-
-        prev_hash = block.hash
-        block.next = Block(self.get_date_time(), data, prev_hash)
+        # add at the end of the LinkedList and create a new block
+        prev_hash = self.tail.hash
+        self.tail.next = Block(self.get_date_time(), data, prev_hash)
+        self.tail = self.tail.next
 
     def search(self, data):
         # check if head is none
@@ -108,6 +107,6 @@ if __name__ == '__main__':
         blockchain.append("Geovani")
         found = blockchain.search("Missael")
         print(str(found))  # returns None because that data does not exist in the block chain
-# test_1()
-# test_2()
+test_1()
+test_2()
 test_3()
