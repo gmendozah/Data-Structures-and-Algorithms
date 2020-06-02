@@ -8,7 +8,6 @@ class Node:
         self.character = character
         self.left = None
         self.right = None
-        self.bin = ''
 
 
 class PriorityQueue:
@@ -110,11 +109,6 @@ def build_tree(frequencies):
 
 def create_binary_codes(node, code, binary_codes):
     # traversing the tree
-
-    # if node.left is None and node.right is None:
-    #     binary_codes[node.character] = '0'
-    #     return binary_codes
-
     if node.left is not None:
         create_binary_codes(node.left, code + '0', binary_codes)
     else:
