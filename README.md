@@ -22,6 +22,8 @@
 
 [Reversing a Linked List: Easy as 1, 2 ,3](https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088)
 
+[What do these operators mean (** , ^ , %, //)?](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean/15193961)
+
 ## License
 
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
