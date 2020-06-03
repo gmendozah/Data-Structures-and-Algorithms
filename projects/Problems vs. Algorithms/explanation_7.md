@@ -14,4 +14,4 @@ To solve this problem I did a Trie implementation and the solution got divided i
 
 **Time → O(n)**, because we loop through a list of segments from a url path that has been split.
  
-**Space → O(1)**, because we just return the path’s handler
+**Space → O(1)**, because we just return the path’s handler.

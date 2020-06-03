@@ -4,4 +4,6 @@ To solve this problem I used a single while loop to iterate over the unsorted ar
 
 ## Time Space Complexity
 
-**Time → O(n)**, because we iterate over the entire array once Space → O(1), because we just return the min and max numbers.
+**Time → O(n)**, because we iterate over the entire array once.
+
+**Space → O(1)**, because we just return the min and max numbers.
