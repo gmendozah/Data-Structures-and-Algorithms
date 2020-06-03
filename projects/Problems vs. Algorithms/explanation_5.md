@@ -19,4 +19,4 @@ find ​and ​finding​ ​suffixes.
 
 **Time → O(n)**, because it depends on the depth of the Trie.
 
-**Space → O(n)**, because we return as many alternatives as possible.
+**Space → O(n x m)**, because the suffixes function runtime will expand with the number of inputs but also with the length of the inputs. Being n the number of inputs and m the average of the length of the word or input.
