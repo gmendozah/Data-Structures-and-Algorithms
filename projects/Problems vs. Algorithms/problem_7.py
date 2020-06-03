@@ -71,6 +71,7 @@ class Router:
 
         if handler is None:
             return self.handler_404
+
         return handler
 
     def split_path(self, path):
