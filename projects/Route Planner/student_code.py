@@ -180,3 +180,4 @@ def test2():
 
 
 test(shortest_path)
+test2();
