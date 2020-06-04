@@ -1,5 +1,6 @@
 # Data Structures & Algorithms
 
+In this course I learned data structures and algorithms by solving 100+ practice problems. The course starts from learning python to learning data structures to learning basic algorithms and finally learning advanced algorithms like A*.
 
 ## Table of Contents
 
