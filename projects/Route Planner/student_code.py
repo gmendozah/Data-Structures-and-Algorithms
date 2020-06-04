@@ -72,10 +72,10 @@ def shortest_path(M, start, goal):
         seen.add(current.id)
 
         if current.id == goal:
-            #print(F"------- break: {goal} -------")
+            # print(F"------- break: {goal} -------")
             return build_route(current)
 
-        #print(F"current: {current.id}")
+        # print(F"current: {current.id}")
         # print(F"frontier: {M.roads[current.id]}")
         for frontier_node in M.roads[current.id]:
             if frontier_node in seen:
@@ -180,4 +180,4 @@ def test2():
 
 
 test(shortest_path)
-test2();
+test2()
