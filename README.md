@@ -7,11 +7,14 @@
 ## Installation
 
 
-
 ## Run
 
 
+## Program Certificate
 
+![](assets/data-structures-and-algorithms.jpg)
+
+Verify [here](https://graduation.udacity.com/confirm/WKU9MZGP).
 ## Additional Resources
 
 [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
