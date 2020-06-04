@@ -1,28 +1,27 @@
-# Data Structures & Algorithms Nanodegree Program
+# Route Planner
 
-
-## Table of Contents
+This project uses A* search to implement a "Google-maps" style route planning algorithm.
+![](assets/a.png)
 
 
 ## Installation
-
+This project does not require any special library. 
 
 
 ## Run
+In a terminal or command window, navigate to the top-level project directory `Route-Planner/` (that contains this README) and run the following command:
 
+```bash
+jupyter notebook project_notebook.ipynb
+```
 
+or
+```bash
+jupyter notebook project_notebook.ipynb
+```
 
-## Additional Resources
-
-[Big-O Cheatsheet](https://www.bigocheatsheet.com/)
-
-[Python Complexities](https://wiki.python.org/moin/TimeComplexity)
-
-[Understanding the Slice notation](https://stackoverflow.com/questions/509211/understanding-slice-notation)
-
-[Reversing a Linked List: Easy as 1, 2 ,3](https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088)
-
-[What do these operators mean (** , ^ , %, //)?](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean/15193961)
+on any Jupyter Notebook.
+This will open the iPython Notebook software and project file in your browser.
 
 ## License
 
