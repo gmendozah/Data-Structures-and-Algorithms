@@ -24,7 +24,7 @@ Based on your operating system, installation instructions are available online:
 Python 3 is required to run the files within this repository.
 
 ## Run
-In a terminal or command window, navigate to the top-level project directory `Data Structures & Algorithms/` (that contains this README) and run the following command:
+In a terminal or command window, navigate to the top-level project directory `Data-Structures-and-Algorithms/` (that contains this README) and run the following command:
 
 ```bash
 jupyter notebook jupyter_notebook.ipynb
