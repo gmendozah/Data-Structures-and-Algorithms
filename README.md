@@ -7,7 +7,7 @@ In this course I learned data structures and algorithms by solving 100+ practice
 
 ## Installation
 
-### Anaconda
+### Anaconda :fire:
 
 The Anaconda distribution is free to install and can be downloaded using:
 
@@ -19,7 +19,7 @@ Based on your operating system, installation instructions are available online:
 - [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
 - [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
 
-### Python 3
+### Python 3 :snake:
 
 Python 3 is required to run the files within this repository.
 
