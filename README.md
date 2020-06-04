@@ -1,6 +1,6 @@
 # Data Structures & Algorithms
 
-In this course I learned data structures and algorithms by solving 100+ practice problems. The course starts from learning python programming to learning data structures to learning basic algorithms and finally learning advanced algorithms like A*.
+In this course I learned data structures and algorithms by solving 100+ practice problems :rocket: :rocket: :rocket:. The course starts from learning python programming to learning data structures to learning basic algorithms and finally learning advanced algorithms like A*.
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ jupyter notebook jupyter_notebook.ipynb
 on any Jupyter Notebook.
 This will open the iPython Notebook software and project file in your browser.
 
-## Program Certificate
+## I Finally Graduated!! :blush:
 
 ![](assets/data-structures-and-algorithms.jpg)
 
