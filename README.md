@@ -1,4 +1,4 @@
-# Data Structures & Algorithms Nanodegree Program
+# Data Structures & Algorithms
 
 
 ## Table of Contents
@@ -6,9 +6,36 @@
 
 ## Installation
 
+### Anaconda
+
+The Anaconda distribution is free to install and can be downloaded using:
+
+[https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+
+Based on your operating system, installation instructions are available online:
+
+- [Installing on macOS](https://docs.anaconda.com/anaconda/install/mac-os/)
+- [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
+- [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
+
+### Python 3
+
+Python 3 is required to run the files within this repository.
 
 ## Run
+In a terminal or command window, navigate to the top-level project directory `Data Structures & Algorithms/` (that contains this README) and run the following command:
 
+```bash
+jupyter notebook jupyter_notebook.ipynb
+```
+
+or
+```bash
+jupyter notebook jupyter_notebook.ipynb
+```
+
+on any Jupyter Notebook.
+This will open the iPython Notebook software and project file in your browser.
 
 ## Program Certificate
 
