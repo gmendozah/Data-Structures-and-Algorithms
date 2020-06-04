@@ -38,7 +38,7 @@ jupyter notebook jupyter_notebook.ipynb
 on any Jupyter Notebook.
 This will open the iPython Notebook software and project file in your browser.
 
-## I Finally Graduated!! :blush:
+## I Finally Graduated! :blush:
 
 ![](assets/data-structures-and-algorithms.jpg)
 
