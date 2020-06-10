@@ -55,6 +55,8 @@ Verify [here](https://graduation.udacity.com/confirm/WKU9MZGP).
 
 [What do these operators mean (** , ^ , %, //)?](https://stackoverflow.com/questions/15193927/what-do-these-operators-mean/15193961)
 
+[Python - public, private and protected Access Modifiers](https://www.tutorialsteacher.com/python/private-and-protected-access-modifiers-in-python)
+
 ## License
 
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
