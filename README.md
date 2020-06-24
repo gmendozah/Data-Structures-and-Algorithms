@@ -4,6 +4,26 @@ In this course I learned data structures and algorithms by solving 100+ practice
 
 ## Table of Contents
 
+[1. Data Structures](#data-structures)
+
+[2. Basic Algorithms](#basic-algorithms)
+
+[3. Advanced Algorithms](#advanced-algorithms)
+
+
+<a name="data-structures"/>
+
+### Data Structures
+
+
+<a name="basic-algorithms"/>
+
+### Basic Algorithms
+
+<a name="advanced-algorithms"/>
+
+### Advanced Algorithms
+
 
 ## Installation
 
